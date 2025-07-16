@@ -8,6 +8,7 @@ Este notebook Colab implementa uma rede neural com **Transfer Learning** para cl
 
 O dataset precisa estar no Google Drive com a seguinte organização:
 
+```
 dataset/
 └── bufalo_elefante/
 ├── train/
@@ -16,10 +17,11 @@ dataset/
 └── val/
 ├── bufalo/
 └── elefante/
+```
 
 ---
 
-## > 💡 Cada pasta deve conter apenas imagens da classe correspondente.
+## 💡 Cada pasta deve conter apenas imagens da classe correspondente.
 
 ---
 
