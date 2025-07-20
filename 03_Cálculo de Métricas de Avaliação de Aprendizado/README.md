@@ -41,7 +41,7 @@ O notebook está dividido em etapas:
 
 Com os valores simulados, você verá as métricas impressas com duas casas decimais, permitindo interpretar o desempenho de um classificador com base em medidas fundamentais.
 
-## ✅ Conclusão
+##
 
 Este projeto é uma introdução prática e direta ao universo da avaliação de classificadores. Compreender essas métricas é essencial para interpretar corretamente os resultados de modelos de machine learning, especialmente em problemas de classificação binária.
 
