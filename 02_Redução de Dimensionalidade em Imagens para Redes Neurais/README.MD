@@ -33,5 +33,5 @@ Esses passos reduzem a complexidade da imagem e facilitam o uso como entrada em 
 - Imagem em escala de cinza
 - Imagem binarizada (preto e branco)
 
-
+  ![40.png]
 
