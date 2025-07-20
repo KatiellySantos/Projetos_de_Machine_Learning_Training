@@ -29,10 +29,6 @@ Esses passos reduzem a complexidade da imagem e facilitam o uso como entrada em 
 
 ## 🖼 Exemplo de saída
 
-- Imagem colorida
-- Imagem em escala de cinza
-- Imagem binarizada (preto e branco)
-
 ![alt text](https://github.com/KatiellySantos/Projetos_de_Machine_Learning_Training/blob/c2b8919df6a0a30edb6cf55876fa19d457597da6/02_Redu%C3%A7%C3%A3o%20de%20Dimensionalidade%20em%20Imagens%20para%20Redes%20Neurais/40.png)
 
 
